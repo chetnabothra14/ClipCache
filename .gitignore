@@ -1,0 +1,85 @@
+
+# ========================
+# 🐍 Python / Virtual Env
+# ========================
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# ========================
+# 🔐 Environment & Secrets
+# ========================
+.env
+.env.*
+!.env.example
+
+# ========================
+# 🗄 Database
+# ========================
+*.db
+*.sqlite3
+
+# ========================
+# 📁 Uploads & User Data
+# ========================
+uploads/
+backups/
+reports/
+temp/
+trash/
+
+# ========================
+# 🎬 Media Files
+# ========================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wmv
+*.flv
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.raw
+
+# ========================
+# 🌐 Node (Frontend)
+# ========================
+node_modules/
+dist/
+build/
+
+# ========================
+# 🖥 Editor & OS Files
+# ========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# 📄 Logs
+# ========================
+*.log
+logs/
+
+# ========================
+# ⚙ Misc
+# ========================
+*.zip
+*.tar
+*.gz
+*.rar
