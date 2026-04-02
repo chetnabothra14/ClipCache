@@ -83,3 +83,5 @@ logs/
 *.tar
 *.gz
 *.rar
+*.db-shm
+*.db-wal
